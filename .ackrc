@@ -1,0 +1,6 @@
+--sort-files
+--color
+
+--ignore-file=is:tags
+
+--ignore-file=match:.*\.sw.*
