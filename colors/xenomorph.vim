@@ -117,8 +117,8 @@ hi SignColumn ctermfg=190 ctermbg=0
 
 hi DiffAdd  ctermfg=15 ctermbg=22
 hi DiffDelete ctermfg=9 ctermbg=52
-hi DiffChange ctermfg=0 ctermbg=60
-hi DiffText  ctermfg=250 ctermbg=60
+" hi DiffChange ctermfg=0 ctermbg=60
+hi DiffText  ctermfg=0 ctermbg=60
 
 " ALE
 hi ALEErrorSign ctermfg=250 ctermbg=88
