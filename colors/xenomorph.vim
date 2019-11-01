@@ -148,6 +148,13 @@ hi MBEVisibleActiveChanged ctermfg=166  ctermbg=88
 
 
 " Vimwiki
-hi VimwikiWeblink1 ctermfg=15 ctermbg=237
-hi mkdLink ctermfg=15 ctermbg=237
-hi mkdInlineURL ctermfg=15 ctermbg=237
+hi VimwikiWeblink1 ctermfg=2 ctermbg=0
+hi VimwikiLink ctermfg=2 ctermbg=0
+hi VimwikiWeblink1Char ctermfg=2 ctermbg=0
+hi mkdLink ctermfg=2 ctermbg=0
+hi mkdInlineURL ctermfg=2 ctermbg=0
+
+hi VimwikiHeader1 ctermfg=15 ctermbg=0
+hi VimwikiHeader2 ctermfg=14 ctermbg=0
+hi VimwikiHeader3 ctermfg=214 ctermbg=0
+hi VimwikiHeader4 ctermfg=97 ctermbg=0
