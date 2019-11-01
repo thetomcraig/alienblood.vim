@@ -146,3 +146,8 @@ hi MBEVisibleActiveNormal ctermfg=15 ctermbg=22
 hi MBEVisibleActiveChanged ctermfg=166  ctermbg=88
 "hi MBEVisibleChanged ctermfg=202 ctermbg=1
 
+
+" Vimwiki
+hi VimwikiWeblink1 ctermfg=15 ctermbg=237
+hi mkdLink ctermfg=15 ctermbg=237
+hi mkdInlineURL ctermfg=15 ctermbg=237
